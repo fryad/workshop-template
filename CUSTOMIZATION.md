@@ -5,8 +5,8 @@
 You must edit the `_config.yml` configuration file in the root directory of your workshop
 and change the URLS called `workshop_repo` and `workshop_site`
 to point to the repository for the lesson and its GitHub Pages site respectively.
-If the URL for the repository is `https://github.com/gvwilson/2015-07-01-miskatonic`,
-the URL for the website will be `http://gvwilson.github.io/2015-07-01-miskatonic`.
+If the URL for the repository is `https://github.com/fryad/2016-06-28-fryad`,
+the URL for the website will be `http://fryad.github.io/2016-06-28-fryad`.
 
 You should not need to modify any of the other values in `_config.yml`.
 
